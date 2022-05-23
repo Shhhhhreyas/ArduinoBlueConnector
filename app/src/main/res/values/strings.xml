@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ArduinoBlueConnector</string>
+    <string name="turn_on">Turn on</string>
+    <string name="turn_off">Turn off</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="notConnected">Not connected</string>
+    <string name="connected">Connected</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+</resources>
