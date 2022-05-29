@@ -7,9 +7,6 @@ import android.util.Log
 
 class ActionReceiver : BroadcastReceiver() {
     override fun onReceive(p0: Context?, p1: Intent?) {
-        when (p1?.getStringExtra("action")){
-            "light" -> Log.d("Action", "light")
-            "fan" -> Log.d("Action", "fan")
-        }
+        p0?.sendBroadcast(Intent("Action").putExtra("action",p1?.getStringExtra("action")))
     }
 }

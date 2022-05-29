@@ -3,6 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable-anydpi-v24/fan.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-v21/app_widget_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-v21/app_widget_inner_view_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/bulb_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/connect_foreground.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.15273556231003038" />
       </map>
     </option>
